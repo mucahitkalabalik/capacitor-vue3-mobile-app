@@ -1,4 +1,4 @@
-# e-commerce
+# capacitor-vue3-mobile-app
 
 ## Project setup
 ```
