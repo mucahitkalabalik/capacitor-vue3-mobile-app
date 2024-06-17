@@ -14,6 +14,14 @@ npm run serve
 ```
 npm run build
 ```
+### Open ios
+```
+npx cap open ios
+```
+### Open android
+```
+npx cap open android
+```
 
 ### Lints and fixes files
 ```
